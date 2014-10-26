@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$feed  = 'http://mavidurakio.wordpress.com/feed';
+$feed  = 'http://mavidurak.github.io/feed.xml';
 $data = simplexml_load_file($feed); 
 
 foreach($data->channel->item as $item){
