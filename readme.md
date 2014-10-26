@@ -1,6 +1,6 @@
 ## Mavidurak.IO CLI (PHP)
 
-[Mavidurak.IO](http://mavidurakio.wordpress.com) için PHP ile yazılmış Command Line okuyucusu.
+[Mavidurak.IO](http://mavidurak.github.io) için PHP ile yazılmış Command Line okuyucusu.
 
 ### Kurulum
 
